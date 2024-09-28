@@ -1,0 +1,38 @@
+$font-primary: "Basis Grotesque", "Helvetica Neue", "Lucida Grande", "Arial";
+$font-secondary: "Larsseit", "Basis Grotesque", "Helvetica Neue", "Lucida Grande", "Arial";
+$font-mono: "Basis Grotesque Mono", "Courier New", Courier, monospace;
+
+$weight-mono: 100;
+$weight-mono-bold: 200;
+$weight-light: 300;
+$weight-regular: normal;
+$weight-medium: 500;
+$weight-bold: bold;
+$weight-extra-bold: 800; // Used with L arsseit Only
+$weight-black: 900;
+$backgroundBlue : #000;
+
+
+
+// ************BACKGROUNDS
+$green: green;
+$light-blue: #1199FA;
+// $dark-blue: ;
+
+
+
+
+
+
+// _variables.scss
+
+// Dark theme variables
+$background-dark: #0B1426;
+$text-dark: #ffffff;
+$text-dadrk-active: #fefefe;
+$primary-dark: #bb86fc;
+
+// Light theme variables
+$background-light:#f7f9fc;
+$text-light:#1e1e1e;
+$primary-light: #6200ea;

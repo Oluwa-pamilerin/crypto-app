@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/all-coins/*"
+  to = "/"
+  status = 301
+
